@@ -1,2 +1,2 @@
-config SHIELD_MSK46
-    def_bool $(shields_list_contains, MSK46)
+config SHIELD_MSK30
+    def_bool $(shields_list_contains, MSK30)

@@ -1,6 +1,6 @@
-if SHIELD_MSK46
+if SHIELD_MSK30
 
 config ZMK_KEYBOARD_NAME
-    default "MSK46"
+    default "MSK30"
 
 endif
